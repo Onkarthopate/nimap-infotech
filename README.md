@@ -15,7 +15,7 @@ Using IDE: Right-click on the main application class (annotated with @SpringBoot
 
 Verify:
 
-Open a web browser or Postman and navigate to http://localhost:8080 to check if the application is running.
+Open a web browser or Postman and navigate to http://localhost:8081 to check if the application is running.
 
 ## 2. How Did You Run the Machine Test?
 To run tests on your Spring Boot application, you generally follow these steps:
